@@ -2,10 +2,12 @@
      <h1>QuickStudies-NFTCard</h1></br>
      <h2>[PT]</h2>
      <p>Esse é um projeto de estudos rápidos (com duração de no máximo 3 horas). </p>
-     <p> Neste projeto, foi criado um cartão com uma imagem e algumas descrições em texto acompanhadas de imagens e icones dispostos conforme a imagem abaixo.</p>
-     <p>1- quando passo o mouse pelo titulo da imagem ou pelo nome do criador, ele muda de cor. Conforme exemplificado na imagen nº2.</p>
-     <p>2- quando passo o mouse pela imagem do cartão ela  demonstra sinais de que o usuário pode interagir.</p>
-     
+     <ol>
+          <li>Neste projeto, foi criado um cartão com uma imagem e algumas descrições em texto acompanhadas de imagens e icones dispostos conforme a imagem abaixo.</li>
+          <li>quando passo o mouse pelo titulo da imagem ou pelo nome do criador, ele muda de cor. Conforme exemplificado na imagen nº2.</li>
+          <li>quando passo o mouse pela imagem do cartão ela  demonstra sinais de que o usuário pode interagir</li>
+     </ol>
+
     
      
      
