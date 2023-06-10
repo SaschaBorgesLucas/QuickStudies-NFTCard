@@ -16,11 +16,7 @@
           2. when I hover over the title of the image or the name of the creator, it changes color. As exemplified in image nº2.
           3. when I move the mouse over the image of the card it shows signs that the user can interact with it. According to picture nº3.
           
-     ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/8a0a4e49-4723-443c-941a-b3a624760775)
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/8a0a4e49-4723-443c-941a-b3a624760775" walt="image 1" width="150" height="200">
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ff1176b9-8d6f-4dfd-a4e6-ea74236e1c9b" alt="image 2" width="150" height="200">
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ee92cde9-f29a-464a-96d2-fd7073aa08b5" alt="image 3" width="150" height="200">
-
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/8a0a4e49-4723-443c-941a-b3a624760775" walt="image 1" width="150" height="200">
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ff1176b9-8d6f-4dfd-a4e6-ea74236e1c9b" alt="image 2" width="150" height="200">
-     <img src="https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ee92cde9-f29a-464a-96d2-fd7073aa08b5" alt="image 3" width="150" height="200">
+     ![image 1](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/8a0a4e49-4723-443c-941a-b3a624760775)
+     ![image 2](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ff1176b9-8d6f-4dfd-a4e6-ea74236e1c9b)
+     ![image 3](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ee92cde9-f29a-464a-96d2-fd7073aa08b5)
+    
