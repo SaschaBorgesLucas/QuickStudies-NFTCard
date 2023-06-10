@@ -15,8 +15,7 @@
           1. In this project, a card was created with an image and some text descriptions accompanied by images and icons arranged as shown in the image below.
           2. when I hover over the title of the image or the name of the creator, it changes color. As exemplified in image nº2.
           3. when I move the mouse over the image of the card it shows signs that the user can interact with it. According to picture nº3.
-          
-     ![image 1](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/8a0a4e49-4723-443c-941a-b3a624760775)
-     ![image 2](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ff1176b9-8d6f-4dfd-a4e6-ea74236e1c9b)
-     ![image 3](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/ee92cde9-f29a-464a-96d2-fd7073aa08b5)
-    
+
+![Imagem1](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/3e082f82-69c9-4d82-9821-cd6b68d47991)
+![Imagem2](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/df87dc71-902c-4f2d-b784-179fdc67713d)
+![Imagem3](https://github.com/SaschaBorgesLucas/QuickStudies-NFTCard/assets/35588147/aa9faa2b-d794-4e45-85e8-f56ed003357f)
